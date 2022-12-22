@@ -1,0 +1,14 @@
+potato
+ferris
+rust
+firefox
+windows
+linux
+fedora
+debian
+arch
+chrome
+code
+javascript
+java
+kotlin
