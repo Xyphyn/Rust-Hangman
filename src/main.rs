@@ -10,7 +10,7 @@ fn main() {
     let words = binding.lines();
 
     let word = words.choose(&mut rand::thread_rng()).unwrap();
-    let mut guesses: Vec<char> = Vec::new();
+    let mut guesses: Vec<char> = vec![' '];
 
     let response = guess(&guesses, word);
     let mut misses = 0;
