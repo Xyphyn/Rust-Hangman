@@ -1,0 +1,9 @@
+.git
+.gitignore
+Dockerfile
+README.md
+
+# Imported from .gitignore
+/target
+words.txt
+words.txt.old
